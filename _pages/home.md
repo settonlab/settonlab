@@ -1,13 +1,12 @@
 ---
-title: "Allan Lab - Home"
+title: "Sett0n Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Setton Lab at Washington University."
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
-
+Research in the Laboratory is focused on understanding the mechanisms for degeneration and regeneration of soft tissues of the musculoskeletal system, including the intervertebral disc, articular cartilage, and meniscus.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -55,11 +54,15 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
 
 
 
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
+Our research employs tools of mechanical engineering, materials synthesis, and cell and molecular biology to advance use of drug depots and biomaterials as therapies for musculoskeletal pathology.  Ongoing projects include:
 
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
+        Synthesis of novel biomaterials for controlling intervertebral disc cell phenotype and metabolism
+        Progenitor cell differentiation to intervertebral disc cell phenotypes
+        Synthesis of novel drug depots for sustained release of inflammatory antagonists in arthritis and disc pathology
+        Studies of cell-cell and cell-matrix interactions that regulate intervertebral disc and progenitor cell phenotypes
+        Preclinical models of arthritis and intervertebral disc disorders and novel assessments of pain and dysfunction
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+We welcome you to join our efforts in the Department of Biomedical Engineering at Washington University in St. Louis!  Contact Prof. Lori Setton at setton@wustl.edu
 
 
 We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
